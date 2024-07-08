@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "name": "Buněčné kompartmenty jsou:",
+    "category": 2,
+    "correctAnswer": "oddělené prostory buněk",
+    "options": [
+      "zásobním centrem buňky",
+      "ohraničením buněk",
+      "energetickým centrem buňky"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Plazmatická membrána:",
+    "category": 2,
+    "correctAnswer": "je polopropustná",
+    "options": [
+      "je pevná",
+      "je nepropustná",
+      "je volně propustná"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Semiautonomní organelou jsou:",
+    "category": 2,
+    "correctAnswer": "chloroplasty",
+    "options": [
+      "mitochondrie",
+      "peroxizómy",
+      "buněčné inkluze"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Membrána oddělující vakuoly od cytoplazmy se nazývá:",
+    "category": 2,
+    "correctAnswer": "tonoplast",
+    "options": [
+      "tylakoid",
+      "matrix",
+      "cytoplazmatická membrána"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cytoskelet eukaryotické buňky:",
+    "category": 2,
+    "correctAnswer": "vytváří dynamickou strukturu buňky",
+    "options": [
+      "je tvořen vakuolou a tonoplastem",
+      "je neměnnou strukturou",
+      "je tvořen vlákny chromozómů"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Buněčná stěna je:",
+    "category": 2,
+    "correctAnswer": "volně propustná",
+    "options": [
+      "polopropustná",
+      "nepropustná",
+      "částečně propustná pro makromolekuly"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mezi makrobiogenní prvky nepatří:",
+    "category": 2,
+    "correctAnswer": "měď",
+    "options": [
+      "uhlík",
+      "dusík",
+      "hořčík"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Vyšší rostliny přijímají dusík ve formě:",
+    "category": 2,
+    "correctAnswer": "NO3",
+    "options": [
+      "CN",
+      "NO2",
+      "NH"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Nespalitelný podíl (popel) tvoří z celkové hmotnosti sušiny kulturních rostlin:",
+    "category": 2,
+    "correctAnswer": "5%",
+    "options": [
+      "10%",
+      "více jak 30%",
+      "do1%"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pojmem hydroponie označujeme:",
+    "category": 2,
+    "correctAnswer": "metodu vodních kultur",
+    "options": [
+      "metodu in vitro",
+      "metodu vzdušných kultur",
+      "metodu polních kultur"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Obsah vody v semenech je:",
+    "category": 2,
+    "correctAnswer": "5- 15%",
+    "options": [
+      "50%",
+      "60— 75%",
+      "až 90%"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Proces zvaný transpirace:",
+    "category": 2,
+    "correctAnswer": "udržuje tok vody v rostlinném těle",
+    "options": [
+      "se děje výhradně skrze uzavřené průduchy",
+      "je realizován lýkovou částí svazku cévního",
+      "se děje výhradně přes hydatody"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Turgor vyjadřuje:",
+    "category": 2,
+    "correctAnswer": "tlak vakuoly na buněčnou stěnu",
+    "options": [
+      "tlak cytoplazmy na vakuolu v plazmolyzované buňce",
+      "tlak buněčné stěny na protoplast",
+      "tlak cytoplazmy na vakuolu v deplazmolyzované buňce"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Příjem vody rostlinou je ovlivněn:",
+    "category": 2,
+    "correctAnswer": "teplotou půdy",
+    "options": [
+      "hydrostatickým vztlakem",
+      "kapilárním vzlínáním",
+      "světlem a tmou"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Výdej vody rostlinnou buňkou na základě osmózy nastává:",
+    "category": 2,
+    "correctAnswer": "prostředí hypertonickém",
+    "options": [
+      "v prostředí izotonickém",
+      "prostředí hypotonickém",
+      "prostředí katabolickém"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Jev zvaný difúze je:",
+    "category": 2,
+    "correctAnswer": "samovolný průnik molekul z místa vyšší koncentrace do místa o nižší koncentraci",
+    "options": [
+      "aktivní transport látek přes polopropustnou membránu",
+      "samovolný průnik molekul rozpouštěné látky přes polopropustnou membránu",
+      "transport makromolekul přes buněčnou stěnu"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Při Hillově reakci (fotolýze vody) vzniká:",
+    "category": 2,
+    "correctAnswer": "kyslík",
+    "options": [
+      "glukóza",
+      "oxid uhličitý",
+      "voda"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Při cyklické fosforylaci vzniká:",
+    "category": 2,
+    "correctAnswer": "ATP",
+    "options": [
+      "ATP aNADPH+ H+",
+      "glukóza",
+      "kyslík"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mezi rostliny s C4 cyklem fotosyntézy patří:",
+    "category": 2,
+    "correctAnswer": "kukuřice",
+    "options": [
+      "rýže",
+      "pšenice",
+      "oves"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fotosynteticky aktivní radiace představuje záření o vlnových délkách:",
+    "category": 2,
+    "correctAnswer": "400—700 nm",
+    "options": [
+      "820 — 1050 nm",
+      "750— 950 nm",
+      "250— 320 nm"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Mezi fotosynteticky aktivní barviva nepatří:",
+    "category": 2,
+    "correctAnswer": "antokyany",
+    "options": [
+      "chlorofyly",
+      "karotenoidy",
+      "fykobiliny"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Akceptorem uhlíku z CO, při temnostní fázi fotosyntézy v Galvinově cyklu je:",
+    "category": 2,
+    "correctAnswer": "ribulóza- 1,5 — bisfosfát",
+    "options": [
+      "fosfoenolpyruvát",
+      "glyceraldehyd- 3 — fosfát",
+      "oxalacetát"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Buněčná organela do níž je situováno dýchání je:",
+    "category": 2,
+    "correctAnswer": "mitochondrie",
+    "options": [
+      "Golgiho aparát",
+      "chloroplast",
+      "endoplazmatické retikulum"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Dýchání jako metabolický proces probíhá",
+    "category": 2,
+    "correctAnswer": "ve dne a vnoci",
+    "options": [
+      "pouze ve dne",
+      "pouze v noci",
+      "v závislosti na intenzitě slunečního záření"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Při kvašení se tvoří:",
+    "category": 2,
+    "correctAnswer": "méně energie ve srovnání s aerobním procesem",
+    "options": [
+      "energeticky chudé látky",
+      "více energie ve srovnání s aerobním procesem",
+      "kyselina citrónová"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Aerobní fází dýchání je:",
+    "category": 2,
+    "correctAnswer": "Krebsův cyklus",
+    "options": [
+      "glykolýza",
+      "Calvinův cyklus",
+      "kvašení"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Rychlost dýchání je nejvyšší:",
+    "category": 2,
+    "correctAnswer": "v klíčících semenech",
+    "options": [
+      "vsuchých semenech",
+      "v dormantních orgánech",
+      "tvořících se semenech"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Vyberte mechanizmy, které nepatří do procesů dýchání:",
+    "category": 2,
+    "correctAnswer": "Hatch-Slackův cyklus",
+    "options": [
+      "glykolýza",
+      "Krebsův cyklus",
+      "kyanid rezistentní dýchání"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Auxin:",
+    "category": 2,
+    "correctAnswer": "patří mezi růstové látky",
+    "options": [
+      "způsobuje dormanci",
+      "urychluje stárnutí",
+      "je produktem fotosyntézy"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Období vegetačního klidu, při němž rostlina zastavuje růst a vývoj nazýváme:",
+    "category": 2,
+    "correctAnswer": "dormance",
+    "options": [
+      "etiolizace",
+      "bobtnání",
+      "defoliace"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Růst rostlin je charakterizován:",
+    "category": 2,
+    "correctAnswer": "dělením buněk a jejich zvětšováním",
+    "options": [
+      "zvětšováním buněčného jádra",
+      "pouze činností meristémů",
+      "diferenciací"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Rostlina obnovuje porušenou celistvost:",
+    "category": 2,
+    "correctAnswer": "regenerací",
+    "options": [
+      "dormancí",
+      "jarovizací",
+      "korelací"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Mezi stimulátory růstu řadíme:",
+    "category": 2,
+    "correctAnswer": "etylén",
+    "options": [
+      "kyselinu abscisovou",
+      "kyselinu mléčnou",
+      "auxin"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Rostliny krátkodenní vykvetou",
+    "category": 2,
+    "correctAnswer": "za nepřetržitého osvětlení",
+    "options": [
+      "při světelné periodě delší než 12 hodin",
+      "při světelné periodě kratší než 12 hodin",
+      "při střídání dne a noci"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Mezi fyzikální pohyby patří:",
+    "category": 2,
+    "correctAnswer": "hygroskopické pohyby",
+    "options": [
+      "tropismy",
+      "nastie",
+      "taxe"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Nastie jsou pohyby:",
+    "category": 2,
+    "correctAnswer": "jejichž směr není závislý na směru podnětu",
+    "options": [
+      "jejichž směr je závislý na směru podnětu",
+      "fyzikální",
+      "cirkadiální"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Fyzikální pohyby:",
+    "category": 2,
+    "correctAnswer": "vykonávají Živé i odumřelé části rostlin",
+    "options": [
+      "vykonávají pouze živé části rostlin",
+      "vykonávají pouze mrtvé části rostlin",
+      "vykonávají pouze rostoucí části rostlin"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Zásobním polysacharidem vyšších rostlin je:",
+    "category": 2,
+    "correctAnswer": "škrob",
+    "options": [
+      "glykogen",
+      "chitin",
+      "celulóza"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Základem biomembrán v eukaryotické buňce jsou:",
+    "category": 2,
+    "correctAnswer": "fosfolipidy",
+    "options": [
+      "polysacharidy",
+      "chitin",
+      "elulóza"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Aktivní membránový transport:",
+    "category": 2,
+    "correctAnswer": "se uskutečňuje pomocí přenašečů",
+    "options": [
+      "je osmózou",
+      "je usnadněnou difúzí",
+      "nevyžaduje energii"
+    ]
+  }
+]

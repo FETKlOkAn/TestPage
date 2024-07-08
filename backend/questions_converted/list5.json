@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Nepohlavní rozmnožování je:",
+    "category": 5,
+    "correctAnswer": "je výhodné ve stabilních podmínkách životního prostředí",
+    "options": [
+      "založené na meiotickém buněčném dělení",
+      "vede ke vzniku geneticky variabilního potomstva",
+      "je výhodné v podmínkách dynamicky se měnícího prostředí"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Meiotické buněčné dělení je realizováno v souvislosti:",
+    "category": 5,
+    "correctAnswer": "s tvorbou pohlavních buněk — gamet",
+    "options": [
+      "s obnovou tkání živočichů",
+      "s dělivou činností meristematických pletiv rostlin",
+      "raným embryonálním vývojem"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pojmu gameta u člověka vyhovuje následující tvrzení:",
+    "category": 5,
+    "correctAnswer": "haploidní buňka vznikající meiotickým dělením",
+    "options": [
+      "haploidní buňka vznikající mitotickým dělením",
+      "diploidní buňka vznikající meiotickým dělením",
+      "gameta člověka obsahuje 46 chromozómů"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chromozómy eukaryotické buňky",
+    "category": 5,
+    "correctAnswer": "obsahují DNA ve vazbě na histonová jádra",
+    "options": [
+      "jsou kružnicového charakteru",
+      "obsahují současně DNA a RNA",
+      "jsou v jádře patrné po celou dobu buněčného cyklu"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kvantitativní znaky:",
+    "category": 5,
+    "correctAnswer": "jsou charakteristické složitou dědičností a plynulou proměnlivostí",
+    "options": [
+      "jsou charakteristické monogenní dědičností",
+      "nejsou ovlivňovány vnějším prostředím",
+      "jsou například tvar a barva zrna hrachu"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jedinec heterogametického pohlaví:",
+    "category": 5,
+    "correctAnswer": "určuje potenciální poměr pohlaví v potomstvu 1:1",
+    "options": [
+      "máv karyotypu dva pohlavní chromozómy X",
+      "je v případě člověka žena",
+      "nerozhoduje geneticky o pohlaví svých potomků"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dědičnost křížem je charakteristická pro geny:",
+    "category": 5,
+    "correctAnswer": "lokalizované v nehomologní části gonozómu X",
+    "options": [
+      "lokalizované na autozomech",
+      "lokalizované na gonozómech obecně",
+      "lokalizované v nehomologní části gonozómu Y"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "O pojmu dominantní homozygot platí následující tvrzení:",
+    "category": 5,
+    "correctAnswer": "jedinec, který při neúplné dominanci vykazuje jiný fenotyp než heterozygot",
+    "options": [
+      "jedinec vytvářející dva typy gamet v rámci sledovaného genu",
+      "jedinec, který v rámci svého potomstva zajišťuje genetickou variabilitu",
+      "jedinec, který ve sledovaném genu obsahuje dvě alely nestejné kvality"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "případě křížení homozygota s heterozygotem:",
+    "category": 5,
+    "correctAnswer": "potomstvo štěpí v genotypu v poměru 1:1",
+    "options": [
+      "vždy se dostavuje fenotypová uniformita potomstva",
+      "vždy se dostavuje genotypová uniformita potomstva",
+      "genotypová uniformita se dostavuje pouze v případě úplné dominance"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Pokud potomstvo štěpí ve fenotypu na čtyři fenotypové kombinace v poměru 9:3:3:1, platí:",
+    "category": 5,
+    "correctAnswer": "rodiči byli dva dihybridi při úplné dominanci projevu obou sledovaných znaků",
+    "options": [
+      "spatne",
+      "rodiči byl dihybrid a recesivní homozygot",
+      "rodiči byli dva dihybridi při neúplné dominanci dominantního projevu sledovaných znaků"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Pojem inbreeding u zvířat vyjadřuje:",
+    "category": 5,
+    "correctAnswer": "páření příbuzných jedinců",
+    "options": [
+      "náhodné křížení v populaci",
+      "křížení nepříbuzných jedinců v rámci druhu",
+      "vzdálené křížení mezi druhy"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Heritabilita je:",
+    "category": 5,
+    "correctAnswer": "míra dědivosti určující podíl genetické proměnlivosti na celkové fenotypové proměnlivosti kvantitativních znaků",
+    "options": [
+      "míra dědivosti určující podíl vnějších vlivů na fenotypové variabilitě kvantitativních znaků",
+      "zvýšení životaschopnosti potomstva oproti Životaschopnosti rodičů",
+      "schopnost přenášet vlastnosti na potomstvo beze změny"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Karyotyp člověka představuje",
+    "category": 5,
+    "correctAnswer": "genetickou výbavu somatické buňky sestávající z 22 párů autozómů a jednoho páru gonozómů",
+    "options": [
+      "genetickou výbavu somatické buňky sestávající ze 46 párů chromozómů",
+      "genetickou výbavu somatické buňky sestávající z 23 párů autozómů a jednoho páru gonozómů",
+      "genetickou výbavu spermie sestávající z 23 párů chromozómů"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Downův syndrom je důsledkem:",
+    "category": 5,
+    "correctAnswer": "seskupení tří chromozómů 21 v okamžiku vzniku zygoty",
+    "options": [
+      "monosomie chromozómu 12",
+      "trisomie chromozómu 13",
+      "chemického ovlivnění jedince během embryonálního vývoje"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Příčinou stability genetické informace eukaryot je:",
+    "category": 5,
+    "correctAnswer": "uložení genetické informace v molekule DNA",
+    "options": [
+      "uložení genetické informace v molekule RNA",
+      "uložení genetické informace ve formě proteinů",
+      "translace"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Introny jsou:",
+    "category": 5,
+    "correctAnswer": "součástí eukaryotických genů neinformující o struktuře polypeptidu",
+    "options": [
+      "kódující části eukaryotických genů",
+      "součástí prokaryotických genů",
+      "součástí genů virů"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Strukturní chromozómová aberace typu delece:",
+    "category": 5,
+    "correctAnswer": "představuje ztrátovou mutaci chromozómu v důsledku zlomu",
+    "options": [
+      "představuje ztrátu chromozómu",
+      "představuje nadbytečnost chromozómu",
+      "obecně nepůsobí negativně na vývoj zárodku nesoucího takto mutovaný chromozom"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Molekula DNA obsahuje následující pár dusíkatých bází:",
+    "category": 5,
+    "correctAnswer": "adenin — thymin",
+    "options": [
+      "adenin — guanin",
+      "guanin- thymin",
+      "cytosin — uracil"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Replikace DNA probíhá",
+    "category": 5,
+    "correctAnswer": "v Sfázi buněčného cyklu",
+    "options": [
+      "v G1 fázi buněčného cyklu",
+      "G2 fázi buněčného cyklu",
+      "G0 fázi buněčného cyklu"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Panmiktická populace je charakteristická:",
+    "category": 5,
+    "correctAnswer": "náhodným křížením a přenosem genů napříč celou populací",
+    "options": [
+      "křížením příbuzných jedinců",
+      "vysokou mírou selekce vůči určitým genotypům",
+      "vysokou mírou emigrace"
+    ]
+  }
+]

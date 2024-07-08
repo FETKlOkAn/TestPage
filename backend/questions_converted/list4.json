@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Klimax je označení pro:",
+    "category": 4,
+    "correctAnswer": "nejstabilnější a nejkomplexnější společenstvo",
+    "options": [
+      "hormonální změny u žen",
+      "teplotní gradient",
+      "fytogeografické členění země"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Zelené rostliny jsou:",
+    "category": 4,
+    "correctAnswer": "autotrofní organismy",
+    "options": [
+      "heterotrofní organismy",
+      "monotrofní organismy",
+      "polytrofní organismy"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hranici, která spojuje dva rozdílné ekosystémy, nazýváme:",
+    "category": 4,
+    "correctAnswer": "ekoton",
+    "options": [
+      "ekotop",
+      "biom",
+      "ekotyp"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Každý organismus obsazuje v ekosystému určitý prostor a současně je do něho zapojen. Toto přizpůsobení se určitému prostředí je označováno jako:",
+    "category": 4,
+    "correctAnswer": "ekologická nika",
+    "options": [
+      "ekologické stanoviště",
+      "ekoton",
+      "ekotop"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dlouhodobý zákonitý proces vývoje biocenózy se nazývá:",
+    "category": 4,
+    "correctAnswer": "sukcese",
+    "options": [
+      "recese",
+      "disturbance",
+      "resilience"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Soubor všech abiotických a biotických podmínek vytvářejících prostředí organismů (populace, společenstva) se nazývá:",
+    "category": 4,
+    "correctAnswer": "ekosystém",
+    "options": [
+      "biocenóza",
+      "biosféra",
+      "biotop"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Organismy mající úzkou ekologickou valenci k některé podmínce prostředí označujeme jako:",
+    "category": 4,
+    "correctAnswer": "bioindikátory",
+    "options": [
+      "biocenózy",
+      "biosféry",
+      "iotopy"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Autochtonní Živočišný druh znamená, že živočich je:",
+    "category": 4,
+    "correctAnswer": "původní",
+    "options": [
+      "zavlečený",
+      "nepůvodní - ale přizpůsobený",
+      "nepůvodní - nepřizpůsobený"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Český výraz pro pojem abundance je:",
+    "category": 4,
+    "correctAnswer": "hustota",
+    "options": [
+      "množivost",
+      "rozptyl",
+      "porodnost"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "K hodnocení kvality Životního prostředí lze použít organismy (bioindikátory), které jsou:",
+    "category": 4,
+    "correctAnswer": "stenovalentní",
+    "options": [
+      "euryvalentní",
+      "polyvalentní",
+      "avalentní"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "našich středoevropských podmínkách má v nadmořské výšce 500 m až 700 m z původních dřevin dominantní postavení:",
+    "category": 4,
+    "correctAnswer": "buk lesní",
+    "options": [
+      "dub letní",
+      "smrk ztepilý",
+      "borovice lesní"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Nepůvodní dřevinou je v květeně ČR:",
+    "category": 4,
+    "correctAnswer": "borovice vejmutovka",
+    "options": [
+      "dub letní",
+      "dub zimní",
+      "borovice kleč"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Na svazích působením vody dochází ke smyvům půdy, které označujeme:",
+    "category": 4,
+    "correctAnswer": "eroze",
+    "options": [
+      "splaz",
+      "eolie",
+      "vodní stok"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Fytoncidy jsou látky:",
+    "category": 4,
+    "correctAnswer": "které ničí bakterie a houby a produkujíj e rostliny",
+    "options": [
+      "které ničí rostliny, a které jsou produkované houbami",
+      "které ničí rostliny a produkujíj e bakterie",
+      "které ničí bakterie a produkujíj e rostliny"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Organismy žijící na tělech odumřelých rostlin a živočichů nazýváme:",
+    "category": 4,
+    "correctAnswer": "saprofytické",
+    "options": [
+      "autotrofní",
+      "parazitické",
+      "poloparazitické"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Rostliny vázané na vápencové skály či staré zdi nazýváme:",
+    "category": 4,
+    "correctAnswer": "kalcifyty",
+    "options": [
+      "nitrofyty",
+      "neutrofyty",
+      "acidofyty"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rostliny, které mají některé části ponořené ve vodě nebo žijí na zamokřených půdách označujeme jako",
+    "category": 4,
+    "correctAnswer": "hygrofyta",
+    "options": [
+      "hydrofyta",
+      "xerofyta",
+      "mezofyta"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Mezi abiotické složky prostředí nepatří",
+    "category": 4,
+    "correctAnswer": "mikroedafon",
+    "options": [
+      "sluneční záření",
+      "teplota prostředí",
+      "atmosférický tlak"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Produkce v umělých ekosystémech je ve srovnání s ekosystémy přirozenými:",
+    "category": 4,
+    "correctAnswer": "vyšší",
+    "options": [
+      "nižší",
+      "je shodná",
+      "je neměřitelná"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nejvyšší obsah energie slunečního záření má:",
+    "category": 4,
+    "correctAnswer": "UV záření",
+    "options": [
+      "infračervené záření",
+      "viditelné světlo",
+      "světelné záření"
+    ]
+  }
+]

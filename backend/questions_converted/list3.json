@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "name": "Trávicí soustava ploštěnek:",
+    "category": 3,
+    "correctAnswer": "je vakovitá-slepě končící",
+    "options": [
+      "není vyvinuta",
+      "je zcela průchozí",
+      "je vyvinuta pouze u dravých forem"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Tasemnice se vyznačují:",
+    "category": 3,
+    "correctAnswer": "absencí trávicí soustavy",
+    "options": [
+      "průchozí trávicí soustavou",
+      "vakovitou-slepě končící trávicí soustavou",
+      "sáním krve a živin pomocí otrněného chobotku (proboscisu)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Trháky šelem jsou tvořeny:",
+    "category": 3,
+    "correctAnswer": "poslední předstoličkou (třeňákem) v horní čelisti a první stoličkou dolní čelisti",
+    "options": [
+      "posledními stoličkami v horní i dolní čelisti",
+      "posledními předstoličkami (třeňáky) v horní i dolní čelisti",
+      "poslední stoličkou v horní čelisti a první stoličkou dolní čelisti"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tropická choroba malárie je roznášena:",
+    "category": 3,
+    "correctAnswer": "komáry rodu Anopheles",
+    "options": [
+      "mouchami rodu Glossina (Tse-tse)",
+      "plošticemi rodu Třiatoma (zákeřnice)",
+      "špatným vzduchem („mal aria“)"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Undulující (vlnivá) membrána je charakteristická pro:",
+    "category": 3,
+    "correctAnswer": "bičíkaté prvoky (dříve Mastigophora)",
+    "options": [
+      "kořenonožce/měňavkovce",
+      "nálevníky (Ciliophora)",
+      "výtrusovce (Apicomplexa)"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Typem tělní dutiny žížal je:",
+    "category": 3,
+    "correctAnswer": "coelom",
+    "options": [
+      "schizocoel",
+      "pseudocoel",
+      "parenchym"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Vzdušné vaky jsou součástí dýchací soustavy",
+    "category": 3,
+    "correctAnswer": "ptáků",
+    "options": [
+      "vzdušnicovců",
+      "savců",
+      "ryb"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Běhák vzniká srůstem:",
+    "category": 3,
+    "correctAnswer": "nártních a zánártních kůstek",
+    "options": [
+      "prstových článku",
+      "kostí nártních",
+      "kostí zánártních"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Beruška (Asellus) je:",
+    "category": 3,
+    "correctAnswer": "korýš",
+    "options": [
+      "brouk",
+      "blanokřídlý hmyz",
+      "dvoukřídlý hmyz"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Čáp bílý (Ciconia ciconia) zimuje:",
+    "category": 3,
+    "correctAnswer": "v jižní Africe",
+    "options": [
+      "Indii",
+      "v Jižní Americe",
+      "v Jižní Evropě"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Čich u savců není vyvinut u:",
+    "category": 3,
+    "correctAnswer": "kytovců",
+    "options": [
+      "hmyzožravců",
+      "hlodavců",
+      "přežvýkavců"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Cizopasné prvoky — trypanosomy, kteří způsobují spavou nemoc, lze především prokázat:",
+    "category": 3,
+    "correctAnswer": "v krvi",
+    "options": [
+      "v moči",
+      "ve výkalech",
+      "v očích"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Do řádu chudozubí nepatří",
+    "category": 3,
+    "correctAnswer": "krtkovití",
+    "options": [
+      "lenochodovití",
+      "mravenečníkovití",
+      "pásovcovití"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Zubní vzorec je:",
+    "category": 3,
+    "correctAnswer": "polovina zubů v horní a dolní čelisti",
+    "options": [
+      "počet zubů v horní a dolní čelisti",
+      "počet zubů v horní čelisti",
+      "počet zubů v dolní čelisti"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "U přežvýkavců většina symbiotických nálevníků žije v:",
+    "category": 3,
+    "correctAnswer": "bachoru",
+    "options": [
+      "čepci",
+      "knize",
+      "slezu"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "U ptáků je zachována aorta:",
+    "category": 3,
+    "correctAnswer": "pravá",
+    "options": [
+      "levá",
+      "žádná",
+      "obě"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Užitkovým druhem motýla je:",
+    "category": 3,
+    "correctAnswer": "bourec morušový",
+    "options": [
+      "bekyně mniška",
+      "mol šatní",
+      "přástevník medvědí"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Vole je rozšířenina:",
+    "category": 3,
+    "correctAnswer": "jícnu",
+    "options": [
+      "hltanu",
+      "svalnatého žaludku",
+      "žláznatého žaludku"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Vačnatci žijí:",
+    "category": 3,
+    "correctAnswer": "v Austrálii a v Jižní Americe",
+    "options": [
+      "pouze v Austrálii",
+      "v Austrálii a v Severní Americe",
+      "Austrálii a v Africe"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Váha těla lichokopytníků spočívá obvykle na:",
+    "category": 3,
+    "correctAnswer": "3. prstu",
+    "options": [
+      "1. prstu",
+      "2. prstu",
+      "4. prstu"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Vitamín „K“ je významný:",
+    "category": 3,
+    "correctAnswer": "antihemorhagický vitamin",
+    "options": [
+      "antirachitický vitamin",
+      "významný pro předcházení gestačním poruchám",
+      "významný pro předcházení depresím"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Vylučovací soustava měkkýšů je tvořena:",
+    "category": 3,
+    "correctAnswer": "metanefridiemi",
+    "options": [
+      "protonefridiemi",
+      "Malpigiho trubicemi",
+      "nemají vylučovací soustavu"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Významný škůdce — háďátko řepné patří mezi:",
+    "category": 3,
+    "correctAnswer": "hlístice",
+    "options": [
+      "prvoky",
+      "ploštěnce",
+      "plazy"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Šourek uložený před penisem mají samci",
+    "category": 3,
+    "correctAnswer": "zajícovců",
+    "options": [
+      "hlodavců",
+      "netopýrů",
+      "chobotnatců"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "U sobů mají parohy:",
+    "category": 3,
+    "correctAnswer": "obě pohlaví",
+    "options": [
+      "samci",
+      "samice",
+      "pouze pohlavně aktivní samci"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "U žraloků struna hřbetní (chorda dorsalis):",
+    "category": 3,
+    "correctAnswer": "prostupuje souvisle středními otvory těl všech obratlů",
+    "options": [
+      "není zachována",
+      "je zachována pouze u mláďat",
+      "je potlačena těly obratlů"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Utajená březost znamená:",
+    "category": 3,
+    "correctAnswer": "oplozené vajíčko se nezahnízdí a jeho vývoj se na několik měsíců zastaví",
+    "options": [
+      "spermie zůstávají po celou zimu ve vejcovodech samice a k oplození uvolněných vajíček dochází až na jaře",
+      "oplození vajíčko se zahnízdí, ale pozastaví svůj vývoj (tzv. arrested development)",
+      "plod se v děloze na určitou dobu (nepříznivého období) přestane vyvíjet"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Tělní dutinu ploštěnců označujeme jako:",
+    "category": 3,
+    "correctAnswer": "schizocoel",
+    "options": [
+      "pseudocoel",
+      "mixocoel",
+      "coelom"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Teplota těla ptáků je obvykle:",
+    "category": 3,
+    "correctAnswer": "40°C",
+    "options": [
+      "25°C",
+      "30°C",
+      "35°C"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Zavíječ voskový je význačným škůdcem:",
+    "category": 3,
+    "correctAnswer": "uskladněných potravin",
+    "options": [
+      "sbírek hmyzu",
+      "ovocných stromů",
+      "jehličnanů"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "které části trávicí soustavy jsou tráveny tuky:",
+    "category": 3,
+    "correctAnswer": "v tenkém střevě",
+    "options": [
+      "v žaludku",
+      "v tlustém střevě",
+      "ve slinivce břišní"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Zrání spermií savců (mužů) vyžaduje teplotu",
+    "category": 3,
+    "correctAnswer": "o 4°C nižší, nežj e tělesná teplota",
+    "options": [
+      "o 4°C vyšší, než je tělesná teplota",
+      "o10°C vyšší, než je tělesná teplota",
+      "o 10°C nižší, než je tělesná teplota"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Glykolýza je:",
+    "category": 3,
+    "correctAnswer": "první etapa buněčného dýchání, kdy dochází k odbourání glukózy 6C, na kyselinu pyrohroznovou 3C",
+    "options": [
+      "druhá etapa buněčného dýchání, kdy je kyselina pyrohroznová odbourána na oxid uhličitý",
+      "proces buněčného dýchání, kdy jsou kyselině pyrohroznové odňaty vodíky",
+      "proces buněčného dýchání, kdy jsou odebrané vodíky oxidovány v dýchacím řetězci vzdušným kyslíkem na vodu"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Homeostáza je:",
+    "category": 3,
+    "correctAnswer": "stálost vnitřního prostředí",
+    "options": [
+      "doba, kdy srdce vhání do velkých tepen určitý objem krve",
+      "napnutí pružné stěny velkých tepen",
+      "ucpání koronární cévy"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Antirachitický vitamin je vitamin:",
+    "category": 3,
+    "correctAnswer": "D",
+    "options": [
+      "A ",
+      "E ",
+      "K "
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Povrch kostí tvoří:",
+    "category": 3,
+    "correctAnswer": "okostice",
+    "options": [
+      "myofibrily",
+      "schwannova pochva",
+      "myelinová pochva"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Bránice je orgán:",
+    "category": 3,
+    "correctAnswer": "plochý dýchací sval, oddělující hrudní a břišní část",
+    "options": [
+      "příklopka bránící vniknutí polykaného sousta do hrtanu",
+      "mezihrudí přepážka oddělující pravou a levou plíci",
+      "řídký vazivový obal tvořící zevní povrch trávicí trubice"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Nefron je:",
+    "category": 3,
+    "correctAnswer": "základní stavební jednotkou ledvin",
+    "options": [
+      "základní stavební jednotkou jater",
+      "základní stavební jednotkou nervové soustavy",
+      "odpadní látka vzniklá při metabolismu"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Žíly v těle vedou krev:",
+    "category": 3,
+    "correctAnswer": "do srdce",
+    "options": [
+      "ze srdce",
+      "oběma směry",
+      "pouze do mozku"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Mineralokortikoidy se tvoří v:",
+    "category": 3,
+    "correctAnswer": "kůře nadledvin",
+    "options": [
+      "ve dřeni nadledvin",
+      "šišince",
+      "ve štítné žláze"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Houbovce (živočišné houby) dělíme na houby",
+    "category": 3,
+    "correctAnswer": "vápenaté, křemičité a rohovité",
+    "options": [
+      "vápenaté, křemičité a strontnaté",
+      "vápenaté, rohovité a ostnité",
+      "křemičité, strontnaté a uhličité"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Žahavé buňky knidoblasty jsou původu",
+    "category": 3,
+    "correctAnswer": "ektodermálního",
+    "options": [
+      "entodermálního",
+      "mesodermálního",
+      "kožního"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Plže dělíme na:",
+    "category": 3,
+    "correctAnswer": "předožábré, zadožábré a plicnaté",
+    "options": [
+      "předožábré, středožábré a zadožábré",
+      "perožábré, nitkožábré a skulinožábré",
+      "předožábré, perožábré a zadožábré"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "V ČR se vyskytují mlži těchto rodů:",
+    "category": 3,
+    "correctAnswer": "škeble (Anodonta), velevrub (Unio), perlorodka (Margaritana)",
+    "options": [
+      "škeble (Anodonta), velevrub (Unio), perlotvorka (Meleagrina)",
+      "velevrub (Unio), perlorodka (Margaritana), škeblovka (Anodontia)",
+      "škeble (Anodonta), perlorodka (Margaritana), perlotvorka (Meleagrina)"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Larva mnohoštětinatců se nazývá",
+    "category": 3,
+    "correctAnswer": "trochofora",
+    "options": [
+      "auplius",
+      "zoea",
+      "glochidium"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Cévní soustava žížal je",
+    "category": 3,
+    "correctAnswer": "uzavřená",
+    "options": [
+      "otevřená",
+      "není vyvinutá",
+      "zaslepená"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Látka, kterou produkují pijavice a snižuje srážlivost krve se jmenuje:",
+    "category": 3,
+    "correctAnswer": "hirudin",
+    "options": [
+      "myiozin",
+      "pepsin",
+      "vascularin"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Mezi parazitické roztoče napadající včelí plod patří:",
+    "category": 3,
+    "correctAnswer": "varroa včelí (Varroa jacobsoni)",
+    "options": [
+      "čmelík včelí (Dermanissus mellificae)",
+      "zákožka včelí (Sarcoptes apis)",
+      "skladokaz včelí (Acarus apis)"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Larvy korýšů se nazývají:",
+    "category": 3,
+    "correctAnswer": "nauplius a zoea",
+    "options": [
+      "nauplius a trochofora",
+      "zoea a trochofora",
+      "trochofora a glochidium"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Partenogeneze je:",
+    "category": 3,
+    "correctAnswer": "rozmnožování samiček bez účasti samečků a z diploidních vajíček se líhnou opět samičky",
+    "options": [
+      "rozmnožování samiček bez účasti samečků a z diploidních vajíček se líhnou samečci",
+      "přeměna části samiček na samečky vlivem nepříznivých životních podmínek",
+      "přirozená sterilizace samečků při jejich přemnožení"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kolik druhů raků je původních pro ČR",
+    "category": 3,
+    "correctAnswer": "2",
+    "options": [
+      "1",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Kyvadélka (haltery) jsou:",
+    "category": 3,
+    "correctAnswer": "redukovaný druhý pár křídel u much",
+    "options": [
+      "zadečkové přívěsky u kobylek",
+      "sluchové orgány u cikád",
+      "redukovaná makadla u makadlovek"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Cévní soustava hmyzu je:",
+    "category": 3,
+    "correctAnswer": "otevřená",
+    "options": [
+      "uzavřená",
+      "spojitá",
+      "zaslepená"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Proměna nedokonalá u hmyzu má vývoj přes:",
+    "category": 3,
+    "correctAnswer": "vajíčko, nymfu, dospělce",
+    "options": [
+      "vajíčko, larvu, subimago, dospělce",
+      "vajíčko, larvu, nymfu, dospělce",
+      "vajíčko, larvu, kuklu, dospělce"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Zakrnělé ústní ústrojí mají dospělci",
+    "category": 3,
+    "correctAnswer": "jepic",
+    "options": [
+      "vážek",
+      "švábů",
+      "škvoři"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Hnidy jsou vajíčka:",
+    "category": 3,
+    "correctAnswer": "vší",
+    "options": [
+      "pisivek",
+      "třásněnek",
+      "mšic"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Mezi síťokřídlé (Neuroptera) patří",
+    "category": 3,
+    "correctAnswer": "zlatoočka skvrnitá",
+    "options": [
+      "krásnoočka zelená",
+      "maloočka smaragdová",
+      "bezočka skvrnitá"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Mezi přirozené bioregulátory škůdců plodin patří brouci čeledi:",
+    "category": 3,
+    "correctAnswer": "střevlíkovití (Carabidae)",
+    "options": [
+      "kovaříkovití (Elateridae)",
+      "kožojedovití (Dermestidae)",
+      "tesaříkovití (Cerambycidae)"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Chorda dorsalis je:",
+    "category": 3,
+    "correctAnswer": "struna hřbetní",
+    "options": [
+      "pruh hřbetní",
+      "lalok hřbetní",
+      "céva hřbetní"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Kopinatci (Cephalochordata) nemají:",
+    "category": 3,
+    "correctAnswer": "chrupavku a kosti",
+    "options": [
+      "kosti a chordu dorsalis",
+      "chrupavku a chordu dorsalis",
+      "chrupavku, kosti a chordu dorsalis"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Larva kruhoústých se nazývá:",
+    "category": 3,
+    "correctAnswer": "minoha",
+    "options": [
+      "kruhatka",
+      "okružanka",
+      "nemají larvu"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Žraloci patří mezi:",
+    "category": 3,
+    "correctAnswer": "paryby",
+    "options": [
+      "bezčelistnatce",
+      "pasavce",
+      "ryby"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Tuková ploutvička bez paprsků je charakteristickým znakem:",
+    "category": 3,
+    "correctAnswer": "pstruha obecného",
+    "options": [
+      "kapra obecného",
+      "candáta obecného",
+      "úhoře říčního"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "V ČR se vyskytuje jediný druh želvy:",
+    "category": 3,
+    "correctAnswer": "želva bahenní",
+    "options": [
+      "želva žlutohnědá",
+      "želva mokřadní",
+      "ČR se želva nevyskytuje"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Slepýš křehký patří mezi:",
+    "category": 3,
+    "correctAnswer": "ještěry",
+    "options": [
+      "hady",
+      "obojživelníky",
+      "červory"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Kolik druhů užovek žije v ČR?",
+    "category": 3,
+    "correctAnswer": "4",
+    "options": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Nekrmivá mláďata mají:",
+    "category": 3,
+    "correctAnswer": "hrabaví",
+    "options": [
+      "měkkozobí",
+      "šplhavci",
+      "pěvci"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Mezi vejcorodé patří:",
+    "category": 3,
+    "correctAnswer": "ptakopysk podivný a ježura australská",
+    "options": [
+      "ježura australská a dikobraz evropský",
+      "ježura australská a vačice opossum",
+      "ježura australská a medvídek koala"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Vydra říční a jezevec lesní patří mezi:",
+    "category": 3,
+    "correctAnswer": "šelmy",
+    "options": [
+      "hlodavce",
+      "hmyzožravce",
+      "chudozubé"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Tapírovití, nosorožcovití a koňovití patří mezi:",
+    "category": 3,
+    "correctAnswer": "lichokopytníky",
+    "options": [
+      "sudokopytníky",
+      "přežvýkavce",
+      "patří každý do jiné skupiny savců"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Muflon patří mezi:",
+    "category": 3,
+    "correctAnswer": "ovce",
+    "options": [
+      "kozy",
+      "skot",
+      "mozolnatce"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "U obratlovců tvoří mozek pět částí:",
+    "category": 3,
+    "correctAnswer": "prodloužená mícha, mozeček, střední mozek, mezimozek a koncový a) mutualismus c) fytochemie mozek",
+    "options": [
+      "prodloužená mícha, přední mozek, střední mozek, zadní mozek a mozeček",
+      "prodloužená mícha, mezimozek, mozeček, přední mozek a zadní mozek",
+      "prodloužená mícha, přední mozek, mezimozek, mozeček a mozkové Otázka 160. Věda zabývající se ekologií společenstva se nazývá: blány"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Plicní krevní oběh vede:",
+    "category": 3,
+    "correctAnswer": "z pravé srdeční komory do plic a zpět do levé srdeční předsíně",
+    "options": [
+      "z pravé srdeční komory do plic a zpět do pravé srdeční předsíně",
+      "zlevé srdeční komory do plic a zpět do pravé srdeční předsíně",
+      "zlevé srdeční komory do plic a zpět do levé předsíně"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Základní stavební a funkční součásti ledvin se nazývají",
+    "category": 3,
+    "correctAnswer": "nefrony",
+    "options": [
+      "neurony",
+      "transgeny",
+      "hyalurony"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Živočichům, u kterých jsou oddělena pohlaví (samci a samice), říkáme:",
+    "category": 3,
+    "correctAnswer": "gonochoristi",
+    "options": [
+      "obojetníci",
+      "hermafrodité",
+      "bisexuálové"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Který z uvedených příkladů patří mezi pastevně kořistnický potravní řetězec?",
+    "category": 3,
+    "correctAnswer": "tráva-hraboš-poštolka",
+    "options": [
+      "tráva-hraboš-kráva",
+      "poštolka-hraboš-člověk",
+      "tráva-poštolka-člověk"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Mezi dekompozitory patří",
+    "category": 3,
+    "correctAnswer": "bakterie, plísně, houby",
+    "options": [
+      "bakterie, býložravci a mycetofágové",
+      "plísně, houby a autotrofové",
+      "houby, sinice a řasy"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Schopnost existence organismu v určitém rozpětí životních ",
+    "category": 3,
+    "correctAnswer": "valence",
+    "options": [
+      "životaschopnost",
+      "prevalence",
+      "biotický faktor"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Vzájemný vztah mezi dvěma populacemi organismů, kdy jedna  působí inhibičně chemickými látkami na tu druhou se nazývá:",
+    "category": 3,
+    "correctAnswer": "alelopatie",
+    "options": [
+      "mutualismus",
+      "fytochemie",
+      "antipatie"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Věda zabývající se ekologií společenstva se nazývá",
+    "category": 3,
+    "correctAnswer": "synekologie",
+    "options": [
+      "demekologie",
+      "myrmekologie",
+      "dermakologie"
+    ]
+  }
+]
