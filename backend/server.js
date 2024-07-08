@@ -28,7 +28,7 @@ app.post('/newuser', (req, res, next) => {
 
 app.get('/users', (req, res) => {
     try {
-        const stmt = db.prepare('SELECT name FROM users');
+        const stmt = db.prepare('SELECT id, name FROM users');
         const users = stmt.all();
         res.json(users);
     } catch (error) {
@@ -58,6 +58,40 @@ app.put('/users/negative/:id', (req, res) => {
         res.status(500).send('Failed to update user');
     }
 });
+
+app.get('/users/positive/:id', (req, res) => {
+    try {
+        const { id } = req.params;
+        const stmt = db.prepare('SELECT correct FROM users WHERE id = ?');
+        const info = stmt.get(id); // Use stmt.get() to retrieve a single row
+        if (info) {
+            res.json({ correct: info.correct });
+        } else {
+            res.status(404).json({ error: 'User not found' });
+        }
+    } catch (error) {
+        console.error(error);
+        res.status(500).send('Failed to fetch user');
+    }
+});
+
+
+app.get('/users/negative/:id', (req, res) => {
+    try {
+        const { id } = req.params;
+        const stmt = db.prepare('SELECT incorrect FROM users WHERE id = ?');
+        const info = stmt.get(id); // Use stmt.get() to retrieve a single row
+        if (info) {
+            res.json({ incorrect: info.incorrect });
+        } else {
+            res.status(404).json({ error: 'User not found' });
+        }
+    } catch (error) {
+        console.error(error);
+        res.status(500).send('Failed to fetch user');
+    }
+});
+
 
 app.get('/api/questions/all', (req, res) => {
     try {
